@@ -1,0 +1,21 @@
+:root{
+    --white : rgb(255, 255, 255);
+    --black : rgb(0, 0, 0);
+    --dark : #212529;
+}
+
+/* Navbar */
+.navbar{
+    height: 80px;
+    transition: 0.2s;
+}
+
+/* Header */
+.head-bg{
+    background-image: url(/public/img/header-wave3.svg), url(/public/img/header-bg.jpg);
+    background-position: bottom, center;
+    background-size: contain, cover;
+    background-repeat: no-repeat, no-repeat;
+}
+
+
