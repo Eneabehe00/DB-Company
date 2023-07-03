@@ -33,6 +33,7 @@ const progressCircle = document.querySelector(".autoplay-progress svg");
         }
       }
     });
+    
 // Timeline
 function animateTimelineItems() {
     let timelineItems = document.querySelectorAll('.timeline-item');
